@@ -1,0 +1,1 @@
+This is a repository where I write down concepts and code while solving algorithmic problems. It contains 100 codes, representing the traces of solving approximately 100 problems.
